@@ -1,1 +1,1 @@
-# goit-markup-hw-01.
+# oit-markup-hw-01.
